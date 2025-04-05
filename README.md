@@ -9,4 +9,6 @@ C# .NET Framework ile Windows Forms uygulaması. Bu projede amaç kullanıcını
 3 - Repository'de bulunan YemekMenusu.zip dosyasını indirin.
 4 - Dosyayı dışarı çıkartın.
 5 - Dışarı çıkartılmış dosyanın içinde bulunan YemekMenusu.sln dosyasını Visual Studio 2022 ile açın.
+
+![Image](https://github.com/user-attachments/assets/65174fb0-80a1-4221-9b8c-eccdb2812f44)
 6 - Görselde gösterildiği gibi çalıştırma butonuna basın ve programı deneyimleyin.
