@@ -1,4 +1,12 @@
 # SiparisMenusu
-![Image](https://github.com/user-attachments/assets/0d2513df-fd00-49c6-a8a1-e376e4e4d889)
 
 C# .NET Framework ile Windows Forms uygulaması. Bu projede amaç kullanıcının istediği kategoride bir gıda seçmesi, ardından o kategoriye ait gıdanın adını, cinsini, fiyatını, KDV oranını ve kalori bilgilerini girip listeye eklemesi. Bu listeye ekleme, silme, temizleme işlemleri yapılabilir.
+
+# Programı Çalıştırma Rehberi
+
+1 - Visual Studio 2022 derleyicisini kurun.
+2 - C# Windows Forms ve .NET Framework 9.0 kurun.
+3 - Repository'de bulunan YemekMenusu.zip dosyasını indirin.
+4 - Dosyayı dışarı çıkartın.
+5 - Dışarı çıkartılmış dosyanın içinde bulunan YemekMenusu.sln dosyasını Visual Studio 2022 ile açın.
+6 - Görselde gösterildiği gibi çalıştırma butonuna basın ve programı deneyimleyin.
