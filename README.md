@@ -10,7 +10,7 @@ Bu programda override methodu, virtual class ve kalıtım kullanılmıştır.
 
 1 - Visual Studio 2022 derleyicisini kurun.
 
-2 - C# Windows Forms ve .NET Framework 9.0 kurun.(Altyapı .NET Framework 4.7.2 olmalı)
+2 - C# Windows Forms ve .NET Framework 4.7.2 kurun.
 
 3 - Repository'de bulunan YemekMenusu.zip dosyasını indirin.
 
